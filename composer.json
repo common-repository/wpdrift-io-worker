@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "1.36.2",
+        "symfony/translation": "v3.4.22"
+    }
+}

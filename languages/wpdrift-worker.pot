@@ -1,0 +1,404 @@
+# Copyright (C) 2019 WPdrift
+# This file is distributed under the same license as the WPdrift IO - Worker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPdrift IO - Worker 1.0.2\n"
+"Report-Msgid-Bugs-To: https://github.com/wpdrift/WPdrift-IO/issues\n"
+"POT-Creation-Date: 2019-02-07 12:12:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: admin/class-wpdrift-worker-admin.php:66
+msgid ""
+"WPdrift IO - Worker requires that WordPress 4.4 or greater be used. Update "
+"to the latest WordPress version."
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:68
+msgid "Update Now"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:115
+msgid "Add New BoClientok"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:116
+msgid "New Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:117
+msgid "Edit Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:118
+msgid "View Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:119
+msgid "All Clients"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:120
+msgid "Search Clients"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:121
+msgid "Parent Clients:"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:122
+msgid "No clients found."
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:123
+msgid "No clients found in Trash."
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:128
+msgid "Description."
+msgstr ""
+
+#: includes/class-wpdrift-worker-api.php:161
+msgid "Limit response to users registered after a given ISO8601 compliant date."
+msgstr ""
+
+#: includes/class-wpdrift-worker-api.php:167
+msgid "Limit response to users registered before a given ISO8601 compliant date."
+msgstr ""
+
+#: includes/functions.php:98
+msgid "Session destroyed successfully"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-clients-controller.php:68
+#: includes/rest-api/class-wpdrift-dashboard-controller.php:417
+#: includes/rest-api/class-wpdrift-events-controller.php:87
+#: includes/rest-api/class-wpdrift-site-controller.php:146
+#: includes/rest-api/class-wpdrift-statistics-controller.php:48
+#: includes/rest-api/class-wpdrift-users-controller.php:49
+msgid "You cannot view the resource."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-clients-controller.php:155
+msgid "Error when creating client."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-events-controller.php:201
+msgid "ago"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:67
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1154
+msgid "Unique identifier for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:93
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:128
+msgid "Required to be true, as users do not support trashing."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:97
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:132
+msgid "Reassign the deleted user's posts and links to this user ID."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:164
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:485
+msgid "Invalid user parameter(s)."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:178
+msgid "Sorry, you are not allowed to filter users by role."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:182
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:388
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:390
+msgid "Sorry, you are not allowed to list users."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:186
+msgid "Sorry, you are not allowed to order users by this parameter."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:199
+msgid "Sorry, you are not allowed to query users by this parameter."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:350
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:619
+msgid "Invalid user ID."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:428
+msgid "You are not currently logged in."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:450
+msgid "Sorry, you are not allowed to create new users."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:466
+msgid "Cannot create existing user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:502
+msgid "Error creating new user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:583
+msgid "Sorry, you are not allowed to edit roles of this user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:596
+msgid "Sorry, you are not allowed to edit this user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:623
+msgid "Invalid email address."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:627
+msgid "Username isn't editable."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:631
+msgid "Invalid slug."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:730
+msgid "Sorry, you are not allowed to delete this user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:747
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:780
+msgid "The user cannot be deleted."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:761
+#. translators: %s: force=true
+msgid "Users do not support trashing. Set '%s' to delete."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:766
+msgid "Invalid user ID for reassignment."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1054
+#. translators: %s: role key
+msgid "The role %s does not exist."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1068
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1078
+msgid "Sorry, you are not allowed to give users that role."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1101
+msgid "Username contains invalid characters."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1108
+msgid "Sorry, that username is not allowed."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1130
+msgid "Passwords cannot be empty."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1134
+msgid "Passwords cannot contain the \"\\\" character."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1160
+msgid "Login name for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1169
+msgid "Display name for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1177
+msgid "First name for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1185
+msgid "Last name for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1193
+msgid "The email address for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1200
+msgid "URL of the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1206
+msgid "Description of the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1211
+msgid "Author URL of the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1218
+msgid "Locale for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1224
+msgid "The nickname for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1232
+msgid "An alphanumeric identifier for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1240
+msgid "Registration date for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1247
+msgid "Roles assigned to the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1255
+msgid "Password for the user (never included)."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1264
+msgid "All capabilities assigned to the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1270
+msgid "Any extra capabilities assigned to the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1286
+#. translators: %d: avatar image size in pixels
+msgid "Avatar URL with image size of %d pixels."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1294
+msgid "Avatar URLs for the user."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1320
+msgid "Ensure result set excludes specific IDs."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1329
+msgid "Limit result set to specific IDs."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1338
+msgid "Offset the result set by a specific number of items."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1344
+msgid "Order sort attribute ascending or descending."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1351
+msgid "Sort collection by object attribute."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1366
+msgid "Limit result set to users with one or more specific slugs."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1374
+msgid ""
+"Limit result set to users matching at least one specific role provided. "
+"Accepts csv list or single role."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-rest-users-controller.php:1382
+msgid "Limit result set to users who are considered authors."
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:281
+msgid "Minute"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:285
+msgid "Hour"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:289
+msgid "Day"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:293
+msgid "Week"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:297
+msgid "Month"
+msgstr ""
+
+#: includes/rest-api/class-wpdrift-users-controller.php:301
+msgid "Year"
+msgstr ""
+
+#: oauth/class-wpdrift-worker-oauth.php:49
+msgid "temporarily unavailable"
+msgstr ""
+
+#: oauth/class-wpdrift-worker-oauth.php:57
+msgid "plugin core is not authenticate"
+msgstr ""
+
+#: oauth/class-wpdrift-worker-oauth.php:379
+msgid "unknown request"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPdrift IO - Worker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpdrift.io/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Analytics, automation, tools, and much more for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPdrift"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpdrift.com/"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:110
+msgctxt "post type general name"
+msgid "Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:111
+msgctxt "post type singular name"
+msgid "Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:112
+msgctxt "admin menu"
+msgid "Clients"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:113
+msgctxt "add new on admin bar"
+msgid "Client"
+msgstr ""
+
+#: admin/class-wpdrift-worker-admin.php:114
+msgctxt "Client"
+msgid "Add New"
+msgstr ""
